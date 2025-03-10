@@ -1,1 +1,1 @@
-The code for 'Diffusion subspace clustering for hyperspectral images'.
+The code of 'Diffusion subspace clustering for hyperspectral images'.
